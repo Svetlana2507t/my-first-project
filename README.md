@@ -1,1 +1,1 @@
-ample-project
+sample-project
