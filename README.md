@@ -1,1 +1,1 @@
-the dummy readme
+ample-project
